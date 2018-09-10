@@ -1,0 +1,14 @@
+C:\Users\ganesh.phadtare\source\repos\flyer-expo-api\flyer-expo-api\bin\Debug\netcoreapp2.0\flyer-expo-api.deps.json
+C:\Users\ganesh.phadtare\source\repos\flyer-expo-api\flyer-expo-api\bin\Debug\netcoreapp2.0\flyer-expo-api.runtimeconfig.json
+C:\Users\ganesh.phadtare\source\repos\flyer-expo-api\flyer-expo-api\bin\Debug\netcoreapp2.0\flyer-expo-api.runtimeconfig.dev.json
+C:\Users\ganesh.phadtare\source\repos\flyer-expo-api\flyer-expo-api\bin\Debug\netcoreapp2.0\flyer-expo-api.dll
+C:\Users\ganesh.phadtare\source\repos\flyer-expo-api\flyer-expo-api\bin\Debug\netcoreapp2.0\flyer-expo-api.pdb
+C:\Users\ganesh.phadtare\source\repos\flyer-expo-api\flyer-expo-api\obj\Debug\netcoreapp2.0\flyer-expo-api.csprojAssemblyReference.cache
+C:\Users\ganesh.phadtare\source\repos\flyer-expo-api\flyer-expo-api\obj\Debug\netcoreapp2.0\flyer-expo-api.csproj.CoreCompileInputs.cache
+C:\Users\ganesh.phadtare\source\repos\flyer-expo-api\flyer-expo-api\obj\Debug\netcoreapp2.0\flyer-expo-api.AssemblyInfoInputs.cache
+C:\Users\ganesh.phadtare\source\repos\flyer-expo-api\flyer-expo-api\obj\Debug\netcoreapp2.0\flyer-expo-api.AssemblyInfo.cs
+C:\Users\ganesh.phadtare\source\repos\flyer-expo-api\flyer-expo-api\obj\Debug\netcoreapp2.0\flyer-expo-api.dll
+C:\Users\ganesh.phadtare\source\repos\flyer-expo-api\flyer-expo-api\obj\Debug\netcoreapp2.0\flyer-expo-api.pdb
+C:\Users\ganesh.phadtare\source\repos\flyer-expo-api\flyer-expo-api\bin\Debug\netcoreapp2.0\flyer-expo-model.dll
+C:\Users\ganesh.phadtare\source\repos\flyer-expo-api\flyer-expo-api\bin\Debug\netcoreapp2.0\flyer-expo-model.pdb
+C:\Users\ganesh.phadtare\source\repos\flyer-expo-api\flyer-expo-api\obj\Debug\netcoreapp2.0\flyer-expo-api.csproj.CopyComplete
